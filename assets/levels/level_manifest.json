@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "totalLevels": 500,
+  "generatedLevels": 500,
+  "chapters": [
+    {
+      "index": 1,
+      "name": "First Steps",
+      "tagline": "Learn to read an exit lane",
+      "accentColor": 2647272,
+      "firstGlobalIndex": 1,
+      "lastGlobalIndex": 50,
+      "file": "chapter_01/chapter_01.json"
+    },
+    {
+      "index": 2,
+      "name": "Color Trails",
+      "tagline": "Follow the colors home",
+      "accentColor": 698242,
+      "firstGlobalIndex": 51,
+      "lastGlobalIndex": 100,
+      "file": "chapter_02/chapter_02.json"
+    },
+    {
+      "index": 3,
+      "name": "Twisted Paths",
+      "tagline": "Bends, loops, and dependencies",
+      "accentColor": 7950578,
+      "firstGlobalIndex": 101,
+      "lastGlobalIndex": 150,
+      "file": "chapter_03/chapter_03.json"
+    },
+    {
+      "index": 4,
+      "name": "Shape Shift",
+      "tagline": "Recognizable silhouettes",
+      "accentColor": 15895576,
+      "firstGlobalIndex": 151,
+      "lastGlobalIndex": 200,
+      "file": "chapter_04/chapter_04.json"
+    },
+    {
+      "index": 5,
+      "name": "The Maze",
+      "tagline": "Denser, narrower, trickier",
+      "accentColor": 15679817,
+      "firstGlobalIndex": 201,
+      "lastGlobalIndex": 250,
+      "file": "chapter_05/chapter_05.json"
+    },
+    {
+      "index": 6,
+      "name": "Crossroads",
+      "tagline": "Everyday objects, real dependencies",
+      "accentColor": 2647272,
+      "firstGlobalIndex": 251,
+      "lastGlobalIndex": 300,
+      "file": "chapter_06/chapter_06.json"
+    },
+    {
+      "index": 7,
+      "name": "Mind Bender",
+      "tagline": "Bigger boards, longer chains",
+      "accentColor": 698242,
+      "firstGlobalIndex": 301,
+      "lastGlobalIndex": 350,
+      "file": "chapter_07/chapter_07.json"
+    },
+    {
+      "index": 8,
+      "name": "Precision",
+      "tagline": "Narrow margins, exact planning",
+      "accentColor": 7950578,
+      "firstGlobalIndex": 351,
+      "lastGlobalIndex": 400,
+      "file": "chapter_08/chapter_08.json"
+    },
+    {
+      "index": 9,
+      "name": "Overdrive",
+      "tagline": "Maximum density",
+      "accentColor": 15895576,
+      "firstGlobalIndex": 401,
+      "lastGlobalIndex": 450,
+      "file": "chapter_09/chapter_09.json"
+    },
+    {
+      "index": 10,
+      "name": "OUTGRID Master",
+      "tagline": "Everything you've learned, at once",
+      "accentColor": 15679817,
+      "firstGlobalIndex": 451,
+      "lastGlobalIndex": 500,
+      "file": "chapter_10/chapter_10.json"
+    }
+  ]
+}

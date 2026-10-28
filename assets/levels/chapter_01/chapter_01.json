@@ -1,0 +1,8285 @@
+{
+  "chapter": 1,
+  "levels": [
+    {
+      "id": "c01_l001",
+      "chapter": 1,
+      "levelInChapter": 1,
+      "globalIndex": 1,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 25,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l002",
+      "chapter": 1,
+      "levelInChapter": 2,
+      "globalIndex": 2,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 34,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l003",
+      "chapter": 1,
+      "levelInChapter": 3,
+      "globalIndex": 3,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 27,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l004",
+      "chapter": 1,
+      "levelInChapter": 4,
+      "globalIndex": 4,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 24,
+      "timeLimit": 51,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l005",
+      "chapter": 1,
+      "levelInChapter": 5,
+      "globalIndex": 5,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 24,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l006",
+      "chapter": 1,
+      "levelInChapter": 6,
+      "globalIndex": 6,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 14,
+      "timeLimit": 47,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l007",
+      "chapter": 1,
+      "levelInChapter": 7,
+      "globalIndex": 7,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 18,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l008",
+      "chapter": 1,
+      "levelInChapter": 8,
+      "globalIndex": 8,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 24,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l009",
+      "chapter": 1,
+      "levelInChapter": 9,
+      "globalIndex": 9,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 25,
+      "timeLimit": 55,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l010",
+      "chapter": 1,
+      "levelInChapter": 10,
+      "globalIndex": 10,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 37,
+      "timeLimit": 79,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 6
+            },
+            {
+              "r": 2,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            },
+            {
+              "r": 7,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l011",
+      "chapter": 1,
+      "levelInChapter": 11,
+      "globalIndex": 11,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 16,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l012",
+      "chapter": 1,
+      "levelInChapter": 12,
+      "globalIndex": 12,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 27,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l013",
+      "chapter": 1,
+      "levelInChapter": 13,
+      "globalIndex": 13,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 46,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l014",
+      "chapter": 1,
+      "levelInChapter": 14,
+      "globalIndex": 14,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 25,
+      "timeLimit": 55,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l015",
+      "chapter": 1,
+      "levelInChapter": 15,
+      "globalIndex": 15,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 16,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l016",
+      "chapter": 1,
+      "levelInChapter": 16,
+      "globalIndex": 16,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 24,
+      "timeLimit": 51,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l017",
+      "chapter": 1,
+      "levelInChapter": 17,
+      "globalIndex": 17,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 27,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l018",
+      "chapter": 1,
+      "levelInChapter": 18,
+      "globalIndex": 18,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 51,
+      "timeLimit": 79,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 2,
+              "c": 6
+            },
+            {
+              "r": 2,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 8
+            },
+            {
+              "r": 3,
+              "c": 8
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            },
+            {
+              "r": 7,
+              "c": 2
+            },
+            {
+              "r": 8,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 8,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l019",
+      "chapter": 1,
+      "levelInChapter": 19,
+      "globalIndex": 19,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 26,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            },
+            {
+              "r": 1,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 1
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l020",
+      "chapter": 1,
+      "levelInChapter": 20,
+      "globalIndex": 20,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 15,
+      "timeLimit": 55,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l021",
+      "chapter": 1,
+      "levelInChapter": 21,
+      "globalIndex": 21,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 7,
+      "cols": 7,
+      "difficulty": 24,
+      "timeLimit": 51,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l022",
+      "chapter": 1,
+      "levelInChapter": 22,
+      "globalIndex": 22,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 36,
+      "timeLimit": 67,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l023",
+      "chapter": 1,
+      "levelInChapter": 23,
+      "globalIndex": 23,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 36,
+      "timeLimit": 83,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 9
+            },
+            {
+              "r": 6,
+              "c": 9
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a11",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 9,
+              "c": 5
+            },
+            {
+              "r": 9,
+              "c": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l024",
+      "chapter": 1,
+      "levelInChapter": 24,
+      "globalIndex": 24,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 27,
+      "timeLimit": 55,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l025",
+      "chapter": 1,
+      "levelInChapter": 25,
+      "globalIndex": 25,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 35,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 8,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l026",
+      "chapter": 1,
+      "levelInChapter": 26,
+      "globalIndex": 26,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 25,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l027",
+      "chapter": 1,
+      "levelInChapter": 27,
+      "globalIndex": 27,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 25,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l028",
+      "chapter": 1,
+      "levelInChapter": 28,
+      "globalIndex": 28,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 26,
+      "timeLimit": 67,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 7,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l029",
+      "chapter": 1,
+      "levelInChapter": 29,
+      "globalIndex": 29,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 29,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l030",
+      "chapter": 1,
+      "levelInChapter": 30,
+      "globalIndex": 30,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 35,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 3,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l031",
+      "chapter": 1,
+      "levelInChapter": 31,
+      "globalIndex": 31,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 27,
+      "timeLimit": 67,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 1
+            },
+            {
+              "r": 4,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 1,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l032",
+      "chapter": 1,
+      "levelInChapter": 32,
+      "globalIndex": 32,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 25,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l033",
+      "chapter": 1,
+      "levelInChapter": 33,
+      "globalIndex": 33,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 25,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l034",
+      "chapter": 1,
+      "levelInChapter": 34,
+      "globalIndex": 34,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 36,
+      "timeLimit": 67,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l035",
+      "chapter": 1,
+      "levelInChapter": 35,
+      "globalIndex": 35,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 28,
+      "timeLimit": 91,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 5,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a11",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a12",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a13",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 9,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l036",
+      "chapter": 1,
+      "levelInChapter": 36,
+      "globalIndex": 36,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 8,
+      "cols": 8,
+      "difficulty": 13,
+      "timeLimit": 45,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l037",
+      "chapter": 1,
+      "levelInChapter": 37,
+      "globalIndex": 37,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 28,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l038",
+      "chapter": 1,
+      "levelInChapter": 38,
+      "globalIndex": 38,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 40,
+      "timeLimit": 91,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 3,
+              "c": 8
+            },
+            {
+              "r": 3,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            },
+            {
+              "r": 4,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 9
+            },
+            {
+              "r": 7,
+              "c": 9
+            },
+            {
+              "r": 8,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 4
+            },
+            {
+              "r": 8,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a11",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a12",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 7,
+              "c": 8
+            },
+            {
+              "r": 8,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a13",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 8,
+              "c": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l039",
+      "chapter": 1,
+      "levelInChapter": 39,
+      "globalIndex": 39,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 18,
+      "timeLimit": 71,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 1,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 1
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l040",
+      "chapter": 1,
+      "levelInChapter": 40,
+      "globalIndex": 40,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 32,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l041",
+      "chapter": 1,
+      "levelInChapter": 41,
+      "globalIndex": 41,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 26,
+      "timeLimit": 67,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l042",
+      "chapter": 1,
+      "levelInChapter": 42,
+      "globalIndex": 42,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 30,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            },
+            {
+              "r": 3,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "left",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 2
+            },
+            {
+              "r": 7,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l043",
+      "chapter": 1,
+      "levelInChapter": 43,
+      "globalIndex": 43,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 13,
+      "cols": 13,
+      "difficulty": 19,
+      "timeLimit": 87,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 5,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 9
+            },
+            {
+              "r": 6,
+              "c": 10
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            },
+            {
+              "r": 9,
+              "c": 6
+            },
+            {
+              "r": 10,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a10",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 7,
+              "c": 8
+            },
+            {
+              "r": 7,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a11",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 8,
+              "c": 4
+            },
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 9,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a12",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 9,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l044",
+      "chapter": 1,
+      "levelInChapter": 44,
+      "globalIndex": 44,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 25,
+      "timeLimit": 59,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l045",
+      "chapter": 1,
+      "levelInChapter": 45,
+      "globalIndex": 45,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 26,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 4,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 5,
+              "c": 9
+            },
+            {
+              "r": 6,
+              "c": 9
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "right",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 8
+            },
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l046",
+      "chapter": 1,
+      "levelInChapter": 46,
+      "globalIndex": 46,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 9,
+      "cols": 9,
+      "difficulty": 35,
+      "timeLimit": 63,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 2
+            },
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "down",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l047",
+      "chapter": 1,
+      "levelInChapter": 47,
+      "globalIndex": 47,
+      "title": "Diamond",
+      "pattern": "diamond",
+      "rows": 11,
+      "cols": 11,
+      "difficulty": 17,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "up",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "right",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 8,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l048",
+      "chapter": 1,
+      "levelInChapter": 48,
+      "globalIndex": 48,
+      "title": "Triangle",
+      "pattern": "triangle",
+      "rows": 13,
+      "cols": 13,
+      "difficulty": 38,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "left",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 8
+            },
+            {
+              "r": 8,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 8,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 7,
+              "c": 9
+            },
+            {
+              "r": 8,
+              "c": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l049",
+      "chapter": 1,
+      "levelInChapter": 49,
+      "globalIndex": 49,
+      "title": "Circle",
+      "pattern": "circle",
+      "rows": 10,
+      "cols": 10,
+      "difficulty": 37,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "right",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 2,
+              "c": 3
+            },
+            {
+              "r": 2,
+              "c": 4
+            },
+            {
+              "r": 2,
+              "c": 5
+            },
+            {
+              "r": 3,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            },
+            {
+              "r": 5,
+              "c": 7
+            },
+            {
+              "r": 6,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 2,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 3,
+              "c": 2
+            },
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 4,
+              "c": 2
+            },
+            {
+              "r": 5,
+              "c": 2
+            },
+            {
+              "r": 6,
+              "c": 2
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "up",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 4,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 7,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 6,
+              "c": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01_l050",
+      "chapter": 1,
+      "levelInChapter": 50,
+      "globalIndex": 50,
+      "title": "Square",
+      "pattern": "square",
+      "rows": 12,
+      "cols": 12,
+      "difficulty": 36,
+      "timeLimit": 75,
+      "schemaVersion": 1,
+      "arrows": [
+        {
+          "id": "a0",
+          "dir": "up",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 3,
+              "c": 3
+            },
+            {
+              "r": 3,
+              "c": 4
+            },
+            {
+              "r": 3,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a1",
+          "dir": "right",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 3,
+              "c": 6
+            },
+            {
+              "r": 3,
+              "c": 7
+            },
+            {
+              "r": 3,
+              "c": 8
+            },
+            {
+              "r": 4,
+              "c": 8
+            },
+            {
+              "r": 5,
+              "c": 8
+            },
+            {
+              "r": 6,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "dir": "left",
+          "color": "green",
+          "cells": [
+            {
+              "r": 4,
+              "c": 3
+            },
+            {
+              "r": 5,
+              "c": 3
+            },
+            {
+              "r": 6,
+              "c": 3
+            },
+            {
+              "r": 7,
+              "c": 3
+            },
+            {
+              "r": 8,
+              "c": 3
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "dir": "up",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 4,
+              "c": 4
+            },
+            {
+              "r": 4,
+              "c": 5
+            },
+            {
+              "r": 4,
+              "c": 6
+            },
+            {
+              "r": 4,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "dir": "left",
+          "color": "red",
+          "cells": [
+            {
+              "r": 5,
+              "c": 4
+            },
+            {
+              "r": 6,
+              "c": 4
+            },
+            {
+              "r": 7,
+              "c": 4
+            },
+            {
+              "r": 8,
+              "c": 4
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "dir": "left",
+          "color": "purple",
+          "cells": [
+            {
+              "r": 5,
+              "c": 5
+            },
+            {
+              "r": 6,
+              "c": 5
+            },
+            {
+              "r": 7,
+              "c": 5
+            },
+            {
+              "r": 8,
+              "c": 5
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "dir": "up",
+          "color": "green",
+          "cells": [
+            {
+              "r": 5,
+              "c": 6
+            },
+            {
+              "r": 5,
+              "c": 7
+            }
+          ]
+        },
+        {
+          "id": "a7",
+          "dir": "down",
+          "color": "orange",
+          "cells": [
+            {
+              "r": 6,
+              "c": 6
+            },
+            {
+              "r": 6,
+              "c": 7
+            },
+            {
+              "r": 7,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 7
+            },
+            {
+              "r": 8,
+              "c": 8
+            }
+          ]
+        },
+        {
+          "id": "a8",
+          "dir": "down",
+          "color": "blue",
+          "cells": [
+            {
+              "r": 7,
+              "c": 6
+            },
+            {
+              "r": 8,
+              "c": 6
+            }
+          ]
+        },
+        {
+          "id": "a9",
+          "dir": "right",
+          "color": "red",
+          "cells": [
+            {
+              "r": 7,
+              "c": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
